@@ -3,7 +3,7 @@ const app = express()
 
 app.get('/', (req, res) => {
 	res.send(`
-		<h1>Lazy Pratim's club</h1>
+		<h1>Lazy Pratim's club working on it</h1>
 		`)
 })
 
